@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "New551Test",
+			"Path": "..\\Source\\New551Test.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "New551TestEditor",
+			"Path": "..\\Source\\New551TestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

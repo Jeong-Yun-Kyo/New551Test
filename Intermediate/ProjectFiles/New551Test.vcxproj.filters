@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\New551Test.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\New551Test.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\New551TestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\New551Test">
+      <UniqueIdentifier>{543BC964-96F6-37B8-9B8B-AD69C5021B02}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\New551Test\My551NewActor.cpp">
+      <Filter>Source\New551Test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\New551Test\My551NewActor.h">
+      <Filter>Source\New551Test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\New551Test\My551NewPawn.cpp">
+      <Filter>Source\New551Test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\New551Test\My551NewPawn.h">
+      <Filter>Source\New551Test</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\New551Test\New551Test.Build.cs">
+      <Filter>Source\New551Test</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\New551Test\New551Test.cpp">
+      <Filter>Source\New551Test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\New551Test\New551Test.h">
+      <Filter>Source\New551Test</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
